@@ -1,0 +1,33 @@
+{
+  "name": "github-traffic-viewer",
+  "version": "1.0.0",
+  "description": "A simple nodejs script that loops throught your github repositories and get its traffic datas",
+  "main": "index.js",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfegyver/github-traffic-viewer.git"
+  },
+  "keywords": [
+    "Github",
+    "Traffic",
+    "Clones",
+    "Views",
+    "Repository",
+    "Sort",
+    "Api",
+    "get"
+  ],
+  "author": "David Fegyver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidfegyver/github-traffic-viewer/issues"
+  },
+  "homepage": "https://github.com/davidfegyver/github-traffic-viewer#readme"
+}
