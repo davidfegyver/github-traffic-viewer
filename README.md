@@ -19,3 +19,14 @@ Example output:
   { name: 'Discord.js-selfbot', clones: 0, views: 0 }
 ]
 ```
+
+### Password authentication deprecated
+
+GitHub will discontinue password authentication to the API. 
+All password authentication will return a status code of 401 starting:
+
+    November 13, 2020 at 16:00 UTC
+
+
+You must now authenticate to the GitHub API with a personal access token.
+You can get one [Here](https://github.com/settings/tokens)
